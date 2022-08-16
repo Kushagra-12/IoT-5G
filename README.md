@@ -2,10 +2,13 @@
 
 ### 5G Architecture
 5G is effectively a dynamic, coherent and flexible framework of multiple advanced technologies supporting a variety of applications. 5G utilizes a more intelligent architecture, with Radio Access Networks (RANs) no longer constrained by base station proximity or complex infrastructure. 5G leads the way towards disaggregated, flexible and virtual RAN with new interfaces creating additional data access points.
+
 ![image](https://user-images.githubusercontent.com/49092108/184804759-1fa304a6-1950-4c93-91e2-65a92cd2249a.png)
 
 ### 3GPP
+
 ![image](https://user-images.githubusercontent.com/49092108/184804989-dc683f4b-e40d-4d56-a53d-ec252b156531.png)
+
 3GPP, or the 3rd Generation Partnership Project, was initially formed in December 1998 when the European Telecommunications Standards Institute (ETSI) partnered with other standard development organizations (SDOs) from around the world to develop new technologies
 
 What is 3GPP 5G NR?
@@ -20,7 +23,9 @@ What is 3GPP 5G NR?
 - In addition to the millimeter wave, underutilized UHF frequencies between 300 MHz and 3 GHz are also being repurposed for 5G. The diversity of frequencies employed can be tailored to the unique applications considering the higher frequencies are characterized by higher bandwidth, albeit shorter range. The millimeter wave frequencies are ideal for densely populated areas, but ineffective for long distance communication. 
 
 ### 5G NR / 4G LTE
+
 ![image](https://user-images.githubusercontent.com/49092108/184805187-16b65aa6-6452-4b68-bcaf-480ec86d0c7d.png)
+
 - NR has a radio structure that makes it compatible with LTE but better prepared for future technology solutions and use cases such as higher spectral efficiency, traffic capacity and shorter user plane latency.
 - An important goal of 5G NR is to support the growth of wireless communication by enhancing electromagnetic radiation spectrum efficiency for mobile broadband.
 - networks can move vast amounts of data more efficiently than with 4G LTE.
