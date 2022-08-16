@@ -2,7 +2,8 @@
 
 ### 5G Architecture
 5G is effectively a dynamic, coherent and flexible framework of multiple advanced technologies supporting a variety of applications. 5G utilizes a more intelligent architecture, with Radio Access Networks (RANs) no longer constrained by base station proximity or complex infrastructure. 5G leads the way towards disaggregated, flexible and virtual RAN with new interfaces creating additional data access points.
-![image](https://user-images.githubusercontent.com/49092108/184803567-afcc2f45-89b4-4c50-b707-7de616d0d900.png)
+![image](https://user-images.githubusercontent.com/49092108/184804759-1fa304a6-1950-4c93-91e2-65a92cd2249a.png)
+
 
 ### 3GPP
 3GPP, or the 3rd Generation Partnership Project, was initially formed in December 1998 when the European Telecommunications Standards Institute (ETSI) partnered with other standard development organizations (SDOs) from around the world to develop new techno5G Architecture 3GPP 
